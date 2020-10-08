@@ -7,4 +7,3 @@
 ##### Working with Session Variables – Login/Logout Functionality
 ##### Developing Validated Contact Forms for Web to Email Transmission via SMTP
 ##### PhpMailer Integration to facilitate Email Transmission
-##### Uploading the Project from a Local Testbed to a Production Server
